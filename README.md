@@ -28,10 +28,10 @@ Principais recursos:
 
 ### Rede Neural Perceptron Multicamadas para Classificação Multiclasse de Câncer de Pele
 
-**Autores:** Rubens Ferreira e Rosana Rego  
-**Publicação:** Anais do VIII Encontro de Computação do Oeste Potiguar —
-ECOP/UFERSA, 2026  
-**Tipo:** Artigo completo
+- **Autores:** Rubens Ferreira e Rosana Rego
+- **Publicação:** Anais do VIII Encontro de Computação do Oeste Potiguar —
+  ECOP/UFERSA, 2026
+- **Tipo:** Artigo completo
 
 Estudo de uma rede MLP como baseline para a classificação de sete tipos de
 lesões de pele do conjunto HAM10000, incluindo experimentos com balanceamento
@@ -41,11 +41,11 @@ de classes por SMOTE.
 
 ### Comparação entre Redes Neurais Convolucionais na Classificação Multiclasse de Lesões de Pele com Análise de Estratégias de Balanceamento
 
-**Autores:** Rubens Alexandre de Sousa Ferreira, Luis Felipe Pereira de Paiva
-Pordeus e Rosana C. B. Rego  
-**Publicação:** Anais do VII Congresso Brasileiro Interdisciplinar em Ciência e
-Tecnologia — COBICET, 2026  
-**Tipo:** Trabalho completo
+- **Autores:** Rubens Alexandre de Sousa Ferreira, Luis Felipe Pereira de Paiva
+  Pordeus e Rosana C. B. Rego
+- **Publicação:** Anais do VII Congresso Brasileiro Interdisciplinar em Ciência
+  e Tecnologia — COBICET, 2026
+- **Tipo:** Trabalho completo
 
 Comparação de arquiteturas convolucionais para classificação multiclasse de
 lesões de pele, com análise de estratégias para lidar com o desbalanceamento do
@@ -55,9 +55,9 @@ conjunto de dados.
 
 ### Multiclass Skin Cancer Classification Using Deep Learning Models and Grad-CAM-Based Explainability
 
-**Autores:** Rubens Ferreira e Rosana Cibely Batista Rego  
-**Tipo:** Conference paper, 2026  
-**DOI:** [10.5281/zenodo.22213269](https://doi.org/10.5281/zenodo.22213269)
+- **Autores:** Rubens Ferreira e Rosana Cibely Batista Rego
+- **Tipo:** Conference paper, 2026
+- **DOI:** [10.5281/zenodo.22213269](https://doi.org/10.5281/zenodo.22213269)
 
 Classificação multiclasse de lesões do HAM10000 com redes neurais
 convolucionais e explicações visuais geradas por Grad-CAM.
@@ -66,10 +66,10 @@ convolucionais e explicações visuais geradas por Grad-CAM.
 
 ### Binary Classification of Venous Thrombosis in Ultrasound Images Using Convolutional Neural Networks and Explainable AI Methods
 
-**Autores:** Rubens Ferreira, Miqueias Nilton de Araujo e Rosana Cibely Batista
-Rego  
-**Tipo:** Conference paper, 2026  
-**DOI:** [10.5281/zenodo.22213263](https://doi.org/10.5281/zenodo.22213263)
+- **Autores:** Rubens Ferreira, Miqueias Nilton de Araujo e Rosana Cibely
+  Batista Rego
+- **Tipo:** Conference paper, 2026
+- **DOI:** [10.5281/zenodo.22213263](https://doi.org/10.5281/zenodo.22213263)
 
 Classificação binária de trombose venosa em imagens de ultrassom com CNN e
 interpretação das previsões por Grad-CAM e LIME.
